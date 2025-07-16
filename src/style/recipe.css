@@ -1,0 +1,28 @@
+table {
+    width: 90%;
+    border-collapse: collapse;
+}
+
+thead {
+    height: 35px;
+}
+
+thead td {
+    background: #a1df7db3;
+    font-size: 18px;
+}
+
+td {
+    border: 1px solid #6cbf3d;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#recipe-report-tb td {
+    text-align: left;
+}
+
+#recipe-report-tb td:first-child {
+    width: 20%;
+}

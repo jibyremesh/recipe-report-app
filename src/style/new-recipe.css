@@ -1,0 +1,15 @@
+.form-input{
+    border-radius: 3px;
+    border: 1px solid #225a02;
+    color: #333;
+    font-size: 15px;
+    height: 20px;
+    padding: 5px;
+    width: 400px;
+}
+#author{
+    width: 60%;
+}
+#rating{
+    width: 20%;
+}

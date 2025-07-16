@@ -1,0 +1,66 @@
+body,
+html {
+  justify-content: flex-start;
+  height: 100%;
+  margin: 0;
+  font-family:lato;
+}
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('../assets/bg.png');
+}
+
+.outer-wrapper {
+  display: flex;
+  margin-left: 80px;
+}
+
+.inner-wrapper {
+  width: 100%;
+  color: #fff;
+  text-align: center;
+}
+
+.login-container {
+  margin: 0 auto;
+  height: 330px;
+  width: 300px;
+  background: rgb(108 191 61 / 70%);
+  border-radius: 15px;
+}
+
+.logo {
+  margin: 40px 0 50px;
+}
+
+.form-container {
+  margin: 20px;
+  text-align: center;
+}
+
+.form-container input {
+  padding: 6px;
+  border: 1px solid rgb(108 191 61 / 70%);
+  border-radius: 10px;
+}
+
+input.btn-login {
+  width: 50%;
+  background: #f78820;
+  color: white;
+  font-weight: 600;
+  border: none;
+  margin-top: 15px;
+}
+
+.error {
+  color: red;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
