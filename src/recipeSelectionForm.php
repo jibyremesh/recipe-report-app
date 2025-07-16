@@ -26,7 +26,7 @@
     <body>
         <header>
             <div class="flex-center header">
-            <h3>CSYM019 - BBC GOOD FOOD RECIPES</h3>
+            <h3>GOOD FOOD RECIPES</h3>
             <span><span class="username">
             <?echo $_SESSION["username"]?></span>
             <a class="fa fa-sign-out" href='./index.php' aria-hidden="true"></a></span>
