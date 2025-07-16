@@ -31,7 +31,7 @@
     <div class="outer-wrapper">
         <div class="login-container">
             <div class="inner-wrapper">
-                <form action="login.php" method="POST">
+                <form action="index.php" method="POST">
                     <h1 class="logo">GoodFood</h1>
                     <div class="form-container">
                         <input type="text" name="username" placeholder="User Name" />

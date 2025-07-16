@@ -29,7 +29,7 @@
             <h3>CSYM019 - BBC GOOD FOOD RECIPES</h3>
             <span><span class="username">
             <?echo $_SESSION["username"]?></span>
-            <a class="fa fa-sign-out" href='./login.php' aria-hidden="true"></a></span>
+            <a class="fa fa-sign-out" href='./index.php' aria-hidden="true"></a></span>
 </div>
         </header>
         <nav>
